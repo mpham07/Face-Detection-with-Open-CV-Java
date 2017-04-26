@@ -16,7 +16,10 @@ This project helps you create a video with Face Detection from an array of image
 - OpenCV 3.2.0
 
 ## Instruction (Mac OSX)
-### Install [Apache Ant](http://ant.apache.org/manual/install.html) first
+### Install [Apache Ant](http://ant.apache.org/manual/install.html) first:
+- Open Terminal
+- If you installed <b>Homebrew</b> already, let run `brew install ant`
+- Otherwise, run `sudo port install apache-ant`
 
 ### Download OpenCV
 - [OpenCV 3.2 Package](https://sourceforge.net/projects/opencvlibrary/) 
